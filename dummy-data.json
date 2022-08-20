@@ -1,0 +1,20 @@
+[
+    {
+        "name":"dummy-1",
+        "regex":"some-regex1",
+        "country":"dummy-country1",
+        "sector":"dummy-sector1",
+        "tag1":"dummy-tag-11",
+        "tag2":"dummy-tag-21",
+        "tag3":"dummy-tag-31"
+    },
+    {
+        "name":"dummy-2",
+        "regex":"some-regex2",
+        "country":"dummy-country2",
+        "sector":"dummy-sector2",
+        "tag1":"dummy-tag-12",
+        "tag2":"dummy-tag-22",
+        "tag3":"dummy-tag-32"
+    }
+]
